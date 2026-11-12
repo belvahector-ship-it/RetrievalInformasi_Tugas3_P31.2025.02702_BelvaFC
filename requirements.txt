@@ -1,0 +1,8 @@
+# torch sengaja TIDAK di-pin: Google Colab sudah menyediakan torch + CUDA.
+# Untuk lokal tanpa GPU: pip install torch --index-url https://download.pytorch.org/whl/cpu
+sentence-transformers==6.3.0
+rank-bm25==0.2.2
+scikit-learn==1.9.1
+pandas==3.1.1
+numpy==2.5.4
+tqdm==4.70.1

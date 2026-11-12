@@ -1,0 +1,6 @@
+# Untuk Google Colab: hanya paket yang belum tersedia di Colab.
+# numpy, pandas, scikit-learn, tqdm, dan torch (CUDA) memakai versi bawaan Colab
+# agar tidak terjadi konflik dependensi; versi yang terpakai dicatat di environment.json.
+sentence-transformers==6.3.0
+rank-bm25==0.2.2
+ir-measures==0.4.3
